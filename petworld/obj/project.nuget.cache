@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ESE5l4BFfyVFxPBrKEpT3IwS+wyB7hbAy/QkEZnl0hI0aYgkYbiDWiMI+fNtX2GEtJ/Cix4xSRaOgAYTCsx7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nbruu\\source\\repos\\petworld\\petworld\\petworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nbruu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\nbruu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

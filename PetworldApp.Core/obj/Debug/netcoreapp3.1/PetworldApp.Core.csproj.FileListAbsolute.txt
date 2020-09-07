@@ -1,0 +1,12 @@
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\bin\Debug\netcoreapp3.1\PetworldApp.Core.deps.json
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\bin\Debug\netcoreapp3.1\PetworldApp.Core.dll
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\bin\Debug\netcoreapp3.1\PetworldApp.Core.pdb
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.dll
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.pdb
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.csprojAssemblyReference.cache
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.AssemblyInfoInputs.cache
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.AssemblyInfo.cs
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.csproj.CopyComplete
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.dll
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core\obj\Debug\netcoreapp3.1\PetworldApp.Core.pdb

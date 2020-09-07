@@ -1,0 +1,14 @@
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.deps.json
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.dll
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.pdb
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetworldApp.Core.dll
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.dll
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.pdb
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetworldApp.Core.pdb
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.dll
+C:\Users\nbruu\source\repos\petworld\Petworld.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\Petworld.Infrastructure.Static.Data.pdb

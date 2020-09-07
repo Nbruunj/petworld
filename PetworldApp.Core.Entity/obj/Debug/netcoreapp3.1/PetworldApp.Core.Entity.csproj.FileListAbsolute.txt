@@ -1,0 +1,9 @@
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.deps.json
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.dll
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\bin\Debug\netcoreapp3.1\PetworldApp.Core.Entity.pdb
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\obj\Debug\netcoreapp3.1\PetworldApp.Core.Entity.csprojAssemblyReference.cache
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\obj\Debug\netcoreapp3.1\PetworldApp.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\obj\Debug\netcoreapp3.1\PetworldApp.Core.Entity.AssemblyInfo.cs
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\obj\Debug\netcoreapp3.1\PetworldApp.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\obj\Debug\netcoreapp3.1\PetworldApp.Core.Entity.dll
+C:\Users\nbruu\source\repos\petworld\PetworldApp.Core.Entity\obj\Debug\netcoreapp3.1\PetworldApp.Core.Entity.pdb

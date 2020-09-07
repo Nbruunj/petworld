@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Petworld.Infrastructure.Static.Data/1.0.0": {
+        "dependencies": {
+          "PetworldApp.Core": "1.0.0",
+          "PetworldApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Petworld.Infrastructure.Static.Data.dll": {}
+        }
+      },
+      "PetworldApp.Core/1.0.0": {
+        "dependencies": {
+          "PetworldApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "PetworldApp.Core.dll": {}
+        }
+      },
+      "PetworldApp.Core.Entity/1.0.0": {
+        "runtime": {
+          "PetworldApp.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petworld.Infrastructure.Static.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetworldApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetworldApp.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
